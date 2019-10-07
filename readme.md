@@ -33,7 +33,14 @@ php artisan key:generate
 ```
 php artisan serve
 ```
-
+Obs:
+Em Teste-Vendas/app/Providers/AppServiceProvider.php
+Comente o seguinte trecho:
+```
+ if (env('APP_ENV') !== 'production') {
+     URL::forceScheme('https');
+ }
+```
 
 
 
