@@ -23,10 +23,21 @@ composer install
 ```
 composer update
 ```
-5. Subir servidor
+5. Renomei o arquivo .env.exemple para .env
+
+6. Gerando a chave para a aplicação
+```
+php artisan key:generate
+```
+7. Subir servidor
 ```
 php artisan serve
 ```
+
+
+
+
+
 
 #### Erro
 
