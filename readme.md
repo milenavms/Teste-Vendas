@@ -5,6 +5,9 @@
 
 [sistema-controle-produto](http://agile-tundra-48002.herokuapp.com/)
 
+![vendas](https://user-images.githubusercontent.com/47642347/87829178-7721e080-c84c-11ea-9b46-358ced1d5863.gif)
+
+
 ### Sobre
 
 *Sistema de cadastro de produtos, usuários (vendedores) e controle de venda.*
